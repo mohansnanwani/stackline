@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mohansnanwani/stackline/static/css/main.4defecf8.css",
+    "main.js": "/mohansnanwani/stackline/static/js/main.908ec810.js",
+    "static/js/488.c5897d77.chunk.js": "/mohansnanwani/stackline/static/js/488.c5897d77.chunk.js",
+    "static/media/stackline_logo.svg": "/mohansnanwani/stackline/static/media/stackline_logo.5935081bd899ecfe02395699e768f84e.svg",
+    "index.html": "/mohansnanwani/stackline/index.html",
+    "main.4defecf8.css.map": "/mohansnanwani/stackline/static/css/main.4defecf8.css.map",
+    "main.908ec810.js.map": "/mohansnanwani/stackline/static/js/main.908ec810.js.map",
+    "488.c5897d77.chunk.js.map": "/mohansnanwani/stackline/static/js/488.c5897d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4defecf8.css",
+    "static/js/main.908ec810.js"
+  ]
+}
