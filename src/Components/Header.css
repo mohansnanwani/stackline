@@ -1,0 +1,38 @@
+
+.header-banner {
+    background-color: #082c4c;
+    color: white;
+    display: flex; 
+    align-items: center; 
+    padding: 10px 20px; 
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    justify-content: flex-start; 
+  }
+  
+  .logo-container {
+    margin-right: 15px; 
+  }
+  
+  .logo {
+    width: 50px; 
+    height: auto; 
+  }
+  
+  .header-content {
+    text-align: left; 
+  }
+  
+  .header-banner h1 {
+    margin: 0;
+    font-size: 1.8em; 
+  }
+  
+  .header-banner p {
+    margin: 5px 0 0;
+    font-size: 1.1em;
+  }
+  
